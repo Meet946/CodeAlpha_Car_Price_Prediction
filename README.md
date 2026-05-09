@@ -96,8 +96,8 @@ Models were evaluated using:
 
 | Model | R² Score |
 |---|---|
-| Linear Regression | Good Performance |
-| Decision Tree Regressor | ~0.94 |
+| Linear Regression | 0.8488707839193155 |
+| Decision Tree Regressor | 0.9454773698218325 |
 
 The Decision Tree Regressor provided higher prediction accuracy and better handled non-linear relationships in the dataset.
 
